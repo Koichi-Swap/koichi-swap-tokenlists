@@ -10,6 +10,30 @@
   "timestamp": "2021-10-26T10:00:00+00:00",
   "tokens": [
     {
+      "chainId": 1,
+      "address": "cfxtest:achs3nehae0j6ksvy1bhrffsh1rtfrw1f6w1kzv46t",
+      "name": "Wrapped Conflux",
+      "symbol": "WCFX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "cfxtest:acepe88unk7fvs18436178up33hb4zkuf62a9dk1gv",
+      "name": "conflux USDT",
+      "symbol": "cUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "cfxtest:achkx35n7vngfxgrm7akemk3ftzy47t61yk5nn270s",
+      "name": "FansCoin",
+      "symbol": "FC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-achc8nxj7r451c223m18w2dwjnmhkd6rxawrvkvsy2/logo.png"
+    },
+    {
       "chainId": 1029,
       "address": "cfx:acg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx",
       "name": "Wrapped Conflux",
