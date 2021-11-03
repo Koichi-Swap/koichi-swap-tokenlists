@@ -5,9 +5,9 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
-  "timestamp": "2021-10-26T10:00:00+00:00",
+  "timestamp": "2021-11-03T10:00:00+00:00",
   "tokens": [
     {
       "chainId": 1,
@@ -432,6 +432,14 @@
       "symbol": "SYI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acc10ztsxcn230e1gn80ztb3c4x5rxde9eszapjb8m/logo.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acfhzszx94aa8h5ngjj95zbs4hw6k6e1gu2hu61rdj",
+      "name": "ANT",
+      "symbol": "ANT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acfhzszx94aa8h5ngjj95zbs4hw6k6e1gu2hu61rdj/logo.png"
     }
   ]
 }
