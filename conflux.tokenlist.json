@@ -4,10 +4,10 @@
   "keywords": ["conflux", "defi", "koichi swap"],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   },
-  "timestamp": "2021-11-03T10:00:00+00:00",
+  "timestamp": "2021-11-17T20:00:00+08:00",
   "tokens": [
     {
       "chainId": 1,
@@ -32,6 +32,30 @@
       "symbol": "FC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-achc8nxj7r451c223m18w2dwjnmhkd6rxawrvkvsy2/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "cfxtest:acdsbdc3n16kpcn8udzau3tdn768afp2tjnfd3n6nn",
+      "name": "conflux USDC",
+      "symbol": "cUSDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-aca13suyk7mbgxw9y3wbjn9vd136swu6s21tg67xmb/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "cfxtest:acgdwyp2taxkf2zmpsxa933rw97dhredp6cezm0ssd",
+      "name": "conflux DAI",
+      "symbol": "cDAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acd3fhs4u0yzx7kpzrujhj15yg63st2z6athmtka95/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "cfxtest:acaebm11sfn5s314zffdxav54aw7dwdj4juzthmsnm",
+      "name": "AUSD Stablecoin",
+      "symbol": "AUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/unknown.png"
     },
     {
       "chainId": 1029,
