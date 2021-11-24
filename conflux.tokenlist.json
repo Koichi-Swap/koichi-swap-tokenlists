@@ -4,10 +4,10 @@
   "keywords": ["conflux", "defi", "koichi swap"],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
-  "timestamp": "2021-11-17T20:00:00+08:00",
+  "timestamp": "2021-11-24T15:37:00+08:00",
   "tokens": [
     {
       "chainId": 1,
@@ -464,6 +464,22 @@
       "symbol": "ANT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acfhzszx94aa8h5ngjj95zbs4hw6k6e1gu2hu61rdj/logo.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acg8dy0xvpyzh1f8n9e9gcf3mm7se1ts5y979mawtf",
+      "name": "TriAngle DAO",
+      "symbol": "TAD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acg8dy0xvpyzh1f8n9e9gcf3mm7se1ts5y979mawtf/logo.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:acb7y2ywyyyxc8gtp0zmn80rdrfbbkxz923wm2zfhn",
+      "name": "AUSD Stablecoin",
+      "symbol": "AUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acb7y2ywyyyxc8gtp0zmn80rdrfbbkxz923wm2zfhn/logo.png"
     }
   ]
 }
