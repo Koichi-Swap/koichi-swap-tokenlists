@@ -4,10 +4,10 @@
   "keywords": ["conflux", "defi", "koichi swap"],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
-  "timestamp": "2021-11-24T15:37:00+08:00",
+  "timestamp": "2021-12-06T18:33:00+08:00",
   "tokens": [
     {
       "chainId": 1,
@@ -488,6 +488,14 @@
       "symbol": "POS",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acav5v98np8t3m66uw7x61yer1ja1jm0dpzj1zyzxv/logo.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:achgfs1uu8drfvy8ju05grkwgct9pfdckym9pc15dc",
+      "name": "Art Token",
+      "symbol": "ARTT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-achgfs1uu8drfvy8ju05grkwgct9pfdckym9pc15dc/logo.png"
     }
   ]
 }
