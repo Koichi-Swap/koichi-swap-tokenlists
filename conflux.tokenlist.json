@@ -3,11 +3,11 @@
   "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/logo.png",
   "keywords": ["conflux", "defi", "koichi swap"],
   "version": {
-    "major": 1,
-    "minor": 4,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   },
-  "timestamp": "2021-12-06T18:33:00+08:00",
+  "timestamp": "2022-01-24T03:40:00+08:00",
   "tokens": [
     {
       "chainId": 1,
@@ -20,8 +20,8 @@
     {
       "chainId": 1,
       "address": "cfxtest:acepe88unk7fvs18436178up33hb4zkuf62a9dk1gv",
-      "name": "conflux USDT",
-      "symbol": "cUSDT",
+      "name": "conflux USDT (eth)",
+      "symbol": "USDT.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7/logo.png"
     },
@@ -36,16 +36,16 @@
     {
       "chainId": 1,
       "address": "cfxtest:acdsbdc3n16kpcn8udzau3tdn768afp2tjnfd3n6nn",
-      "name": "conflux USDC",
-      "symbol": "cUSDC",
+      "name": "conflux USDC (eth)",
+      "symbol": "USDC.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-aca13suyk7mbgxw9y3wbjn9vd136swu6s21tg67xmb/logo.png"
     },
     {
       "chainId": 1,
       "address": "cfxtest:acgdwyp2taxkf2zmpsxa933rw97dhredp6cezm0ssd",
-      "name": "conflux DAI",
-      "symbol": "cDAI",
+      "name": "conflux DAI (eth)",
+      "symbol": "DAI.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acd3fhs4u0yzx7kpzrujhj15yg63st2z6athmtka95/logo.png"
     },
@@ -68,48 +68,56 @@
     {
       "chainId": 1029,
       "address": "cfx:acdrf821t59y12b4guyzckyuw2xf1gfpj2ba0x4sj6",
-      "name": "conflux ETH",
-      "symbol": "cETH",
+      "name": "conflux Wrapped ETH (eth)",
+      "symbol": "WETH.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acdrf821t59y12b4guyzckyuw2xf1gfpj2ba0x4sj6/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:achcuvuasx3t8zcumtwuf35y51sksewvca0h0hj71a",
-      "name": "conflux MOON",
-      "symbol": "cMOON",
+      "name": "conflux MOON (eth)",
+      "symbol": "MOON.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-achcuvuasx3t8zcumtwuf35y51sksewvca0h0hj71a/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7",
-      "name": "conflux USDT",
-      "symbol": "cUSDT",
+      "name": "conflux USDT (eth)",
+      "symbol": "USDT.e",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7/logo.png"
+    },
+    {
+      "chainId": 1029,
+      "address": "cfx:ace9zcyrbn5gfmaxdbam0k9ean9gdsw8banvkh1x78",
+      "name": "conflux USDT (bsc)",
+      "symbol": "USDT.b",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acf2rcsh8payyxpg6xj7b0ztswwh81ute60tsw35j7/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:aca13suyk7mbgxw9y3wbjn9vd136swu6s21tg67xmb",
-      "name": "conflux USDC",
-      "symbol": "cUSDC",
+      "name": "conflux USDC (eth)",
+      "symbol": "USDC.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-aca13suyk7mbgxw9y3wbjn9vd136swu6s21tg67xmb/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acfezfepc4wuxj2fmfya1w9kwjutk7wtaudbz0k6dj",
-      "name": "conflux YFI",
-      "symbol": "cYFI",
+      "name": "conflux YFI (eth)",
+      "symbol": "YFI.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acfezfepc4wuxj2fmfya1w9kwjutk7wtaudbz0k6dj/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acd3fhs4u0yzx7kpzrujhj15yg63st2z6athmtka95",
-      "name": "conflux DAI",
-      "symbol": "cDAI",
+      "name": "conflux DAI (eth)",
+      "symbol": "DAI.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acd3fhs4u0yzx7kpzrujhj15yg63st2z6athmtka95/logo.png"
     },
@@ -124,144 +132,144 @@
     {
       "chainId": 1029,
       "address": "cfx:accuj4mt4kmnhzr1b3xe653n63694tc0cjuzkj5t94",
-      "name": "conflux LINK",
-      "symbol": "cLINK",
+      "name": "conflux LINK (eth)",
+      "symbol": "LINK.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-accuj4mt4kmnhzr1b3xe653n63694tc0cjuzkj5t94/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acff13n54n4t02cy6uc8xfdxrf4enanr5jh6vy761g",
-      "name": "conflux LEND",
-      "symbol": "cLEND",
+      "name": "conflux LEND (eth)",
+      "symbol": "LEND.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acff13n54n4t02cy6uc8xfdxrf4enanr5jh6vy761g/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:accedvremfhmym60f9u4nghb8utxcgbtb2acewunwh",
-      "name": "conflux COMP",
-      "symbol": "cCOMP",
+      "name": "conflux COMP (eth)",
+      "symbol": "COMP.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-accedvremfhmym60f9u4nghb8utxcgbtb2acewunwh/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:ach3cmt7wze9tkhxctkdzfsaf0azcppgvpfwfdzmku",
-      "name": "conflux UMA",
-      "symbol": "cUMA",
+      "name": "conflux UMA (eth)",
+      "symbol": "UMA.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-ach3cmt7wze9tkhxctkdzfsaf0azcppgvpfwfdzmku/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acbyc3ahvctpx5cabfw6n1s9fv40trur6ydbu1zr4x",
-      "name": "conflux BAND",
-      "symbol": "cBAND",
+      "name": "conflux BAND (eth)",
+      "symbol": "BAND.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acbyc3ahvctpx5cabfw6n1s9fv40trur6ydbu1zr4x/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acdkf73rh2ewwm3hbwddd00wy3v3fyau3ew61jbrbj",
-      "name": "conflux SWRV",
-      "symbol": "cSWRV",
+      "name": "conflux SWRV (eth)",
+      "symbol": "SWRV.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acdkf73rh2ewwm3hbwddd00wy3v3fyau3ew61jbrbj/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:accxdrf7c3vntwyyhj8ws8mcatd433k8sjvrjbx39r",
-      "name": "conflux YFII",
-      "symbol": "cYFII",
+      "name": "conflux YFII (eth)",
+      "symbol": "YFII.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-accxdrf7c3vntwyyhj8ws8mcatd433k8sjvrjbx39r/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acc3hzr7e570ccnrb91wgufwcs6a171jvuax68krfm",
-      "name": "conflux DF",
-      "symbol": "cDF",
+      "name": "conflux DF (eth)",
+      "symbol": "DF.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acc3hzr7e570ccnrb91wgufwcs6a171jvuax68krfm/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acc1uh4ftd4jhser99uk8nk8unkbz8ykmyxt0n27v5",
-      "name": "conflux FOR",
-      "symbol": "cFOR",
+      "name": "conflux FOR (eth)",
+      "symbol": "FOR.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acc1uh4ftd4jhser99uk8nk8unkbz8ykmyxt0n27v5/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acdxcs8a79xzapxpj6erw7ja3af97hhbmay9a56thn",
-      "name": "conflux Aave",
-      "symbol": "cAave",
+      "name": "conflux AAVE (eth)",
+      "symbol": "AAVE.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acdxcs8a79xzapxpj6erw7ja3af97hhbmay9a56thn/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acdcap62vh2km00y4fh117ngz8jauj19g618km65m6",
-      "name": "conflux KP3R",
-      "symbol": "cKP3R",
+      "name": "conflux KP3R (eth)",
+      "symbol": "KP3R.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acdcap62vh2km00y4fh117ngz8jauj19g618km65m6/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acekx06rp1bcdkup1ubr2vw77tsrw81ysy0d3n7x5s",
-      "name": "conflux DPI",
-      "symbol": "cDPI",
+      "name": "conflux DPI (eth)",
+      "symbol": "DPI.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acekx06rp1bcdkup1ubr2vw77tsrw81ysy0d3n7x5s/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:achzchw5mfk7kmd0khg1c9e0dyyhjmwbdekbn0j0ga",
-      "name": "conflux FARM",
-      "symbol": "cFARM",
+      "name": "conflux FARM (eth)",
+      "symbol": "FARM.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-achzchw5mfk7kmd0khg1c9e0dyyhjmwbdekbn0j0ga/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:accp8dmpwnp90cmnbpwbzm2kfv8ebb6pu2w52m61f5",
-      "name": "conflux BEL",
-      "symbol": "cBEL",
+      "name": "conflux BEL (eth)",
+      "symbol": "BEL.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-accp8dmpwnp90cmnbpwbzm2kfv8ebb6pu2w52m61f5/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acb7fffcxhjg7ubw5h8ptph4m0n8p7ev3prspa246k",
-      "name": "conflux MKR",
-      "symbol": "cMKR",
+      "name": "conflux MKR (eth)",
+      "symbol": "MKR.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acb7fffcxhjg7ubw5h8ptph4m0n8p7ev3prspa246k/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:achyjy01f9cbmr0ru3usjtcrxj6b59c0w2x57fnaz4",
-      "name": "conflux HD",
-      "symbol": "cHD",
+      "name": "conflux HD (eth)",
+      "symbol": "HD.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-achyjy01f9cbmr0ru3usjtcrxj6b59c0w2x57fnaz4/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:achk7fsdynd6djc2yr1t5gngyt11awk19yncecnaez",
-      "name": "conflux NEST",
-      "symbol": "cNEST",
+      "name": "conflux NEST (eth)",
+      "symbol": "NEST.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-achk7fsdynd6djc2yr1t5gngyt11awk19yncecnaez/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acdkyd8tmezzs6cvmfwtpkg7y9k8cnhdapfcganwt9",
-      "name": "conflux AMP",
-      "symbol": "cAMP",
+      "name": "conflux AMP (eth)",
+      "symbol": "AMP.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acdkyd8tmezzs6cvmfwtpkg7y9k8cnhdapfcganwt9/logo.png"
     },
@@ -269,15 +277,15 @@
       "chainId": 1029,
       "address": "cfx:acc8599utu7nayj50w393eycznhv4e23g2ys6xmvf5",
       "name": "conflux Ins3.Finance Coin",
-      "symbol": "cITF",
+      "symbol": "ITF.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acc8599utu7nayj50w393eycznhv4e23g2ys6xmvf5/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acg7z3y6x8pzem2v6pnyxuysn78pvgu3jjhzaatpy5",
-      "name": "conflux WBTC",
-      "symbol": "cWBTC",
+      "name": "conflux WBTC (eth)",
+      "symbol": "WBTC.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acg7z3y6x8pzem2v6pnyxuysn78pvgu3jjhzaatpy5/logo.png"
     },
@@ -293,47 +301,47 @@
       "chainId": 1029,
       "address": "cfx:acgbjtsmfpex2mbn97dsygtkfrt952sp0psmh8pnvz",
       "name": "conflux Flux Protocol",
-      "symbol": "cFLUX",
+      "symbol": "FLUX.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acgbjtsmfpex2mbn97dsygtkfrt952sp0psmh8pnvz/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:ace9jkrhrybezetunrax6t94dzkn30jeea0z3hcdej",
-      "name": "conflux Spice",
-      "symbol": "cSPICE",
+      "name": "conflux SPICE (eth)",
+      "symbol": "SPICE.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-ace9jkrhrybezetunrax6t94dzkn30jeea0z3hcdej/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acdwpp2u4fv9hv4247dvg7816tth9vhj2uaen2duf2",
-      "name": "conflux Mettalex",
-      "symbol": "cMTLX",
+      "name": "conflux Mettalex (eth)",
+      "symbol": "MTLX.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acdwpp2u4fv9hv4247dvg7816tth9vhj2uaen2duf2/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acb19a53ga0126xdyf7yan01r6xmnw4wu6jkbdrk9e",
-      "name": "conflux RAMP DEFI",
-      "symbol": "cRAMP",
+      "name": "conflux RAMP DEFI (eth)",
+      "symbol": "RAMP.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acb19a53ga0126xdyf7yan01r6xmnw4wu6jkbdrk9e/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acghsp42jpf0bywyr65vcnrs2xg6cc85aj6p6s1z8u",
-      "name": "conflux Autonio",
-      "symbol": "cNIOX",
+      "name": "conflux Autonio (eth)",
+      "symbol": "NIOX.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acghsp42jpf0bywyr65vcnrs2xg6cc85aj6p6s1z8u/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acdeewzdr3cv7hvc12kdwp7gzysjaexz9jw7s1uaft",
-      "name": "conflux SHIBA INU",
-      "symbol": "cSHIB",
+      "name": "conflux SHIBA INU (eth)",
+      "symbol": "SHIB.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acdeewzdr3cv7hvc12kdwp7gzysjaexz9jw7s1uaft/logo.png"
     },
@@ -428,16 +436,16 @@
     {
       "chainId": 1029,
       "address": "cfx:ace2nh5arcb4nxhkh5xdtac087rc7a9hgam96t8j6j",
-      "name": "conflux WIT coin",
-      "symbol": "cWIT",
+      "name": "conflux WIT coin (eth)",
+      "symbol": "WIT.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-ace2nh5arcb4nxhkh5xdtac087rc7a9hgam96t8j6j/logo.png"
     },
     {
       "chainId": 1029,
       "address": "cfx:acf2sb8yeas3knvg0vs26whh4xb8ssxpgjxv92h310",
-      "name": "conflux INS3 Token",
-      "symbol": "cITFX",
+      "name": "conflux INS3 Token (eth)",
+      "symbol": "ITFX.e",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Koichi-Swap/koichi-swap-tokenlists/main/logos/cfx-acf2sb8yeas3knvg0vs26whh4xb8ssxpgjxv92h310/logo.png"
     },
